@@ -1,6 +1,6 @@
 {
   "name": "opencode-studio-server",
-  "version": "2.3.1",
+  "version": "2.3.2",
   "private": false,
   "scripts": {
     "start": "concurrently \"npm run server\" \"npm run client\"",
